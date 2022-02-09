@@ -15,7 +15,7 @@ This repository is my solutions for assignments of the CS231n course in Stanford
 ### Assignment 2:
 - Q1: Fully-connected Neural Network. 
 - Q2: Batch Normalization. 
-- Q3: Dropout. 
+- [Q3](https://github.com/leeyngdo/Stanford-CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. 
 - Q4: Convolutional Networks. 
 - Q5: PyTorch / TensorFlow on CIFAR-10. 
 ### Assignment 3:
