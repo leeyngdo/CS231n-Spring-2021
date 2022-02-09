@@ -13,7 +13,7 @@ This repository is my solutions for assignments of the CS231n course in Stanford
 - [Q5](https://github.com/leeyngdo/Stanford-CS231n/blob/master/assignment1/features.ipynb): Higher Level Representations: Image Features.
 
 ### Assignment 2:
-- Q1: Fully-connected Neural Network. 
+- [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/master/assignment2/FullyConnectedNets.ipynb): Fully-connected Neural Network. 
 - Q2: Batch Normalization. 
 - [Q3](https://github.com/leeyngdo/Stanford-CS231n/blob/master/assignment2/Dropout.ipynb): Dropout. 
 - Q4: Convolutional Networks. 
