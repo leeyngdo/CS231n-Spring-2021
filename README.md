@@ -19,7 +19,7 @@ This repository is my solutions for assignments of the CS231n course in Stanford
 - [Q4](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. 
 - Q5: PyTorch / TensorFlow on CIFAR-10. 
 ### Assignment 3:
-- Q1: Image Captioning with Vanilla RNNs. 
+- [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. 
 - Q2: Image Captioning with LSTMs. 
 - Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images. 
 - Q4: Style Transfer. 
