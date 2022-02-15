@@ -20,7 +20,8 @@ This repository is my solutions for assignments of the CS231n course in Stanford
 - Q5: PyTorch / TensorFlow on CIFAR-10. 
 ### Assignment 3:
 - [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. 
-- [Q2](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs. 
+- Q2: Image Captioning with Transformers
 - Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images. 
-- Q4: Style Transfer. 
-- Q5: Generative Adversarial Networks. 
+- Q4: Generative Adversarial Networks. 
+- Q5: Self-Supervised Learning for Image Classification. 
+- [Extra](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs. 
