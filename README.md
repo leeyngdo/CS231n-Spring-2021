@@ -1,7 +1,8 @@
-# Stanford-CS231n
+# Stanford-CS231n-Spring-2021
 **2021 Spring - CS231n: Convolutional Neural Networks for Visual Recognition**
 
 This repository is my solutions for assignments of the CS231n course in Stanford University.
+Also, I wrote my own solutions of all inline questions, so please refer to my files.
 
 (You can visit [course website](http://cs231n.stanford.edu/index.html) and check course notes & assignments.)
 
@@ -20,7 +21,7 @@ This repository is my solutions for assignments of the CS231n course in Stanford
 - Q5: PyTorch / TensorFlow on CIFAR-10. 
 ### Assignment 3:
 - [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. 
-- Q2: Image Captioning with Transformers
+- [Q2](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers
 - Q3: Network Visualization: Saliency maps, Class Visualization, and Fooling Images. 
 - Q4: Generative Adversarial Networks. 
 - Q5: Self-Supervised Learning for Image Classification. 
