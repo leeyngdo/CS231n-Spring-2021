@@ -3,7 +3,7 @@
 
 This repository is my solutions for assignments of the CS231n course in Stanford University.
 
-Also, I wrote my own solutions for all inline questions, so please refer to my files.
+Also, I've written down all my answers to the inline questions, so please refer to my files.
 
 (You can visit [course website](http://cs231n.stanford.edu/index.html) and check course notes & assignments.)
 
