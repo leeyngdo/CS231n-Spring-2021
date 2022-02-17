@@ -16,14 +16,14 @@ Also, I've written down all my answers to the inline questions, so please refer 
 
 ### Assignment 2:
 - [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/FullyConnectedNets.ipynb): Fully-connected Neural Network. 
-- Q2: Batch Normalization. 
+- [Q2](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/BatchNormalization.ipynb): Batch Normalization. 
 - [Q3](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/Dropout.ipynb): Dropout. 
 - [Q4](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/ConvolutionalNetworks.ipynb): Convolutional Networks. 
-- Q5: PyTorch / TensorFlow on CIFAR-10. 
+- [Q5](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment2/PyTorch.ipynb): PyTorch / TensorFlow on CIFAR-10. 
 ### Assignment 3:
 - [Q1](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/RNN_Captioning.ipynb): Image Captioning with Vanilla RNNs. 
 - [Q2](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/Transformer_Captioning.ipynb): Image Captioning with Transformers
 - [Q3](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/Network_Visualization.ipynb): Network Visualization: Saliency maps, Class Visualization, and Fooling Images. 
-- Q4: Generative Adversarial Networks. 
-- Q5: Self-Supervised Learning for Image Classification. 
+- [Q4](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/Generative_Adversarial_Networks.ipynb): Generative Adversarial Networks. 
+- [Q5](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/Self_Supervised_Learning.ipynb): Self-Supervised Learning for Image Classification. 
 - [Extra](https://github.com/leeyngdo/Stanford-CS231n/blob/main/assignment3/LSTM_Captioning.ipynb): Image Captioning with LSTMs. 
